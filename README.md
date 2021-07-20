@@ -1,4 +1,7 @@
-<include a CircleCI status badge, here>
+
+CircleCI status badge : [![CircleCI](https://circleci.com/gh/leenabhavnani/Udacity_Devops_Project4.svg?style=svg)](https://github.com/leenabhavnani/Udacity_Devops_Project4)
+
+
 
 ## Project Overview
 
